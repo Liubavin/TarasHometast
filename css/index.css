@@ -1,0 +1,85 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+header {
+    background-color: #1a1a1a;
+    height: 20px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Inconsolata' ;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    position: relative;
+    margin: 0 0 50px 0;
+
+}
+
+header a {
+    color: white;
+    text-decoration:  none;
+    font-size: 12px;
+}
+
+.left {
+    float: left;
+    padding: 3px 0  0 20px;
+}
+.right {
+    float: right;
+    padding: 5px 20px  0 0;
+}
+
+.first {
+    font-family: 'Dosis', sans-serif;
+    padding: 2% 0 0 22%;
+    font-size: 40px;
+
+
+}
+
+
+.fon {
+    margin: 50px 0 0 0;
+    height: 400px;
+    background: linear-gradient(to bottom, #f0eeef, #fdfdfd);
+}
+
+.fon img {
+    padding: 0px 10%;
+}
+.btn {
+    margin: 94px 0px 0px 16%;
+
+}
+
+.btn button {
+    width: 153px;
+    height: 17px;
+    box-shadow: 1px 0px 0px 1px #ececec;
+    background-color: rgb(102, 102, 102);
+    border: 1px solid rgb(102, 102, 102);
+    margin: 0px -3px 0px 0px;
+}
+
+.btn button:hover{
+    background-color: #0a0a0a;
+    cursor: pointer;
+}
+
+.shit {
+
+    margin: 5% 0 0 37% ;
+    font-size: 30px;
+    font-family: 'Dosis', sans-serif;
+    color: #a0a090;
+}
+
+.two {
+    display: block;
+    margin: 40px 0px 7px 20px;
+}
+.three {
+    margin: 0 0 0 -40px;
+}
